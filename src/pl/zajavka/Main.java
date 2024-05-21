@@ -28,6 +28,7 @@ public class Main {
 
     // IoC - Inversion of control
     // DI - Dependency Injection
+    // IoC Container - framework do dependency injection (Spring)
 
 
     public static void main(String[] args) {
